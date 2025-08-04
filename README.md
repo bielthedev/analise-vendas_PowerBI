@@ -33,7 +33,7 @@ A análise foi realizada com base em um conjunto de dados contendo:
 ## 🧠 Objetivo
 
 Este projeto tem como foco o desenvolvimento de habilidades em análise de dados e criação de dashboards.  
-Mesmo sem o Power BI instalado no momento, a estrutura está pronta para futuras visualizações com a ferramenta.
+A estrutura está pronta para futuras visualizações com a ferramenta.
 
 ---
 
