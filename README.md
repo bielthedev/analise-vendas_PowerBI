@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/bielthedev/analise-vendas/blob/main/capa-analise-vendas.png?raw=true" alt="Capa Análise de Vendas" width="600"/>
+</p>
+
 # 📊 Análise de Vendas com Power BI
 
 Este projeto tem como objetivo demonstrar uma análise de vendas utilizando dados simulados e visualizações que seriam aplicadas em um dashboard no Power BI.
