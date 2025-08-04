@@ -1,68 +1,46 @@
+# 📊 Análise de Vendas com Power BI
 
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bielthedev&label=Visualizações+de+perfil&color=blueviolet&style=flat" alt="bielthedev" />
-</p>
+Este projeto tem como objetivo demonstrar uma análise de vendas utilizando dados simulados e visualizações que seriam aplicadas em um dashboard no Power BI.
 
 ---
 
-### 🧠 Estudando atualmente
+## 🧾 Sobre o Projeto
 
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
+A análise foi realizada com base em um conjunto de dados contendo:
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/98/f9/4e/98f94eaafadac08c1b162420fcb86c15.gif" width="400"/>
-</p>
-
----
-
-### 💻 Tecnologias que utilizo
-
-#### 🔧 Principais
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-#### 🐘 Banco de Dados
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-#### 🧪 Outros Conhecimentos
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-</p>
+- Data da venda  
+- Produto e categoria  
+- Região e vendedor  
+- Quantidade e preço unitário  
+- Valor total da venda
 
 ---
 
-### 📊 Linguagens mais usadas
+## 🎯 Principais Indicadores (KPIs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielthedev&layout=compact&langs_count=10&theme=tokyonight&border_radius=10)
+- Total de vendas por região  
+- Produtos mais vendidos  
+- Desempenho por vendedor  
+- Ticket médio  
+- Tendência de vendas
+
+---
+
+## 🧠 Objetivo
+
+Este projeto tem como foco o desenvolvimento de habilidades em análise de dados e criação de dashboards.  
+Mesmo sem o Power BI instalado no momento, a estrutura está pronta para futuras visualizações com a ferramenta.
 
 ---
 
-### 🚀 Sobre mim
+## 📎 Arquivos incluídos
 
-- 🎓 Graduado em Gestão da Tecnologia da Informação  
-- 🌱 Estudando desenvolvimento web full stack e análise de dados  
-- 🧠 Apaixonado por resolver problemas com tecnologia  
-- 💼 Buscando oportunidade na área de tecnologia (remoto ou híbrido)  
-- 🔗 [LinkedIn](https://linkedin.com/in/seu-link) | [GitHub](https://github.com/bielthedev)
+- `analise_vendas_powerbi.xlsx` – base de dados simulada  
+- `dashboard_vendas_simulado.png` – exemplo visual de análise
 
 ---
+
+## 🚀 Autor
+
+**Gabriel Felipe de Melo Oliveira**  
+👨‍💻 [GitHub](https://github.com/bielthedev) | [LinkedIn](https://www.linkedin.com/in/gabrielfelipedev/)
