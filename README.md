@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bielthedev/analise-vendas/blob/main/dashboard_vendas_simulado.png?raw=true" alt="Capa Análise de Vendas" width="600"/>
+  <img src="https://github.com/bielthedev/analise-vendas/blob/main/CAPA POWER BI.png?raw=true" alt="Capa Análise de Vendas" width="600"/>
 </p>
 
 # 📊 Análise de Vendas com Power BI
